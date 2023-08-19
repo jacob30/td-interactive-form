@@ -16,7 +16,7 @@
 
 Expected output:
 
-![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td3.gif)
+![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td3.png)
 _Demo Gif will take a second to load_
 
 # Project Instructions & Features (9 steps)
