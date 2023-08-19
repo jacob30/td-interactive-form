@@ -14,6 +14,11 @@
 3. Open the index.html file eg. `open -a "Safari" index.html`
    ✅ Open index.html in the browser to run the project.
 
+Expected output:
+
+![Demo Gif](https://github.com/jacob30/gh-assets/blob/main/td3.gif)
+_Demo Gif will take a second to load_
+
 # Project Instructions & Features (9 steps)
 
 1. Set focus on the first text field
